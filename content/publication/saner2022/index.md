@@ -1,5 +1,5 @@
 ---
-title: "Uncovering Library features from API Usage on Stack Overflow"
+title: "Uncovering Library Features from API Usage on Stack Overflow"
 
 authors:
 - cvelazquezr
