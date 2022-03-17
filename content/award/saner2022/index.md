@@ -29,7 +29,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-url_pdf: 'TCSE_Award.pdf'
+url_pdf: ['TCSE_Award.pdf']
 url_code: ''
 url_dataset: ''
 url_poster: ''
