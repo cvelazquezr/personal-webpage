@@ -29,13 +29,13 @@ tags: [multi-label, libraries, software ecosystem, classification]
 featured: true
 
 url_pdf: 'https://soft.vub.ac.be/Publications/2020/vub-tr-soft-20-09.pdf'
-url_code: ''
+url_code: 'https://github.com/cvelazquezr/MUTAMA'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtu.be/ecrZsmruV30'
 
 
 ---
