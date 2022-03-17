@@ -24,7 +24,7 @@ publication_short: In *MSR* 2021
 
 abstract: Stack Overflow is a popular question and answer platform where developers share technical issues in the hope of receiving answers with potential solutions. The latter may include code snippets making use of library versions that have long since been succeeded by newer ones. Other developers finding such a snippet at a later point in time may be unaware of its outdatedness unless mentioned in a comment. Furthermore, it can be difficult to integrate the snippet without knowing the exact version of the library it is referencing. In this paper, we propose an automated approach to identifying ranges of Maven library versions that might have been used in a Java snippet on Stack Overflow. We use a prototype implementation of the approach to assess the overall outdatedness of Stack Overflow snippets with respect to the latest version of each referenced library available from Maven. We found a considerable number of snippets that use outdated library versions, which suggests that developers should be careful when adopting solutions from Stack Overflow.
 
-tags: [ansible, infrastructure as code, semantic versioning, empirical study, mining software repositories]
+tags: [stack overflow, software libraries, method calls, Maven]
 
 # Display this page in the Featured widget?
 featured: true
