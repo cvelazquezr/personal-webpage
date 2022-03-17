@@ -14,9 +14,9 @@ subtitle: 'I have been very honoured to receive the following awards:'
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: publication
+  page_type: award
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 3
   # Filter on criteria
   filters:
     author: ""
@@ -37,5 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---
