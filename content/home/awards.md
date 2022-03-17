@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 title: 'Awards'
-subtitle:
+subtitle: 'I have been very honoured to receive the following awards:'
 
 content:
   # Page type to display. E.g. post, event, publication...
