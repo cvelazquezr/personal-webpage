@@ -34,9 +34,8 @@ url_code: 'https://github.com/cvelazquezr/saner-2022'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://www.slideshare.net/CamiloErnestoVelzque/uncovering-library-features-from-api-usage-on-stack-overflow/CamiloErnestoVelzque/uncovering-library-features-from-api-usage-on-stack-overflow'
 url_source: ''
 url_video: 'https://youtu.be/iP-gKOFDL-A'
 
-slides: saner2022
 ---
