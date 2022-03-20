@@ -37,7 +37,6 @@ url_project: ''
 url_slides: 'https://www.slideshare.net/CamiloErnestoVelzque/uncovering-library-features-from-api-usage-on-stack-overflow/CamiloErnestoVelzque/uncovering-library-features-from-api-usage-on-stack-overflow'
 url_source: ''
 url_video: 'https://youtu.be/OgfCeaLsauE?t=2666'
-
-# Backup video: 'https://youtu.be/iP-gKOFDL-A'
+url_video_backup: 'https://youtu.be/iP-gKOFDL-A'
 
 ---
