@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/my-orcid?orcid=0000-0002-8360-1519
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/cvelazquezr
