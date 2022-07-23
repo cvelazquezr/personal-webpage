@@ -1,5 +1,5 @@
 ---
-title: "Uncovering Library Features from API Usage on Stack Overflow"
+title: "LiFUSO: A Tool for Library Feature Unveiling based on Stack Overflow Posts"
 
 authors:
 - cvelazquezr
