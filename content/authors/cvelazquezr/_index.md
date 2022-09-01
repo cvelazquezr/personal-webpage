@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. Candidate in Computer Sciences
+  - course: Ph.D. Candidate in Computer Science
     institution: Vrije Universiteit Brussel (VUB)
     year: 2018-present
   - course: M.Sc. in Applied Mathematics and Informatics for Administration
@@ -75,6 +75,6 @@ email: ""
 highlight_name: true
 ---
 
-Camilo Velázquez-Rodríguez is currently a Ph.D. Candidate in Computer Sciences at the Software Languages Lab from the Department of Informatics, Faculty of (BioEngineering) Sciences at the Vrije Universiteit Brussel in Brussels, Belgium. His research interests include (but are not limited to) library usages in large software ecosystems, optimisation, machine learning and mathematical modelling. He is currently researching about library usages in the Maven software ecosystem to help developers in tasks such as selection of libraries, library comparisons and library adoption.
+Camilo Velázquez-Rodríguez is currently a Ph.D. Candidate in Computer Science at the Software Languages Lab from the Department of Informatics, Faculty of (BioEngineering) Sciences at the Vrije Universiteit Brussel in Brussels, Belgium. His research interests include (but are not limited to) library usages in large software ecosystems, optimisation, machine learning and mathematical modelling. He is currently researching about library usages in the Maven software ecosystem to help developers in tasks such as selection of libraries, library comparisons and library adoption.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
