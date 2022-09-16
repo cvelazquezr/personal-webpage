@@ -6,7 +6,7 @@ title: Camilo Velázquez-Rodríguez
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate in Computer Sciences
+role: Ph.D. Candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
