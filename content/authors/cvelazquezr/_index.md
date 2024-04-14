@@ -78,6 +78,6 @@ email: ""
 highlight_name: true
 ---
 
-Camilo Velázquez-Rodríguez is a Postdoctoral researcher at the Software Languages Lab from the Department of Informatics, Faculty of (BioEngineering) Sciences at the Vrije Universiteit Brussel in Brussels, Belgium. His research interests include (but are not limited to) library usages in large software ecosystems, optimisation techniques, machine and deep learning and mathematical modelling. He did his Ph.D. thesis under the supervision of [Prof. Dr. Coen De Roover](https://soft.vub.ac.be/~cderoove/).
+Camilo Velázquez-Rodríguez is a Postdoctoral researcher at the Software Languages Lab from the Department of Informatics, Faculty of Sciences and Bioengineering Sciences at the Vrije Universiteit Brussel in Brussels, Belgium. His research interests include (but are not limited to) library usages in large software ecosystems, optimisation techniques, machine and deep learning and mathematical modelling. He did his Ph.D. thesis under the supervision of [Prof. Dr. Coen De Roover](https://soft.vub.ac.be/~cderoove/).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
