@@ -21,15 +21,18 @@ interests:
 - Artificial Intelligence
 - Software Engineering
 - Mining Software Repositories
-- Optimisation
+- Optimisation Techniques
 - Mathematical Modelling
 
 # Education to show in About widget
 education:
   courses:
-  - course: Ph.D. Candidate in Computer Science
+  - course: Postdoctoral Researcher
     institution: Vrije Universiteit Brussel (VUB)
-    year: 2018-present
+    year: 2024-present
+  - course: Ph.D. in Computer Science
+    institution: Vrije Universiteit Brussel (VUB)
+    year: 2018-2024
   - course: M.Sc. in Applied Mathematics and Informatics for Administration
     institution: Universidad de Holguín "Oscar Lucero Moya" (UHO)
     year: 2014-2016
@@ -75,6 +78,6 @@ email: ""
 highlight_name: true
 ---
 
-Camilo Velázquez-Rodríguez is currently a Ph.D. Candidate in Computer Science at the Software Languages Lab from the Department of Informatics, Faculty of (BioEngineering) Sciences at the Vrije Universiteit Brussel in Brussels, Belgium. His research interests include (but are not limited to) library usages in large software ecosystems, optimisation, machine learning and mathematical modeling. He is currently researching about library usages in the Maven software ecosystem to help developers in tasks such as selection of libraries, library comparisons and library adoption. He is doing his Ph.D. thesis under the supervision of [Prof. Dr. Coen De Roover](https://soft.vub.ac.be/~cderoove/).
+Camilo Velázquez-Rodríguez is a Postdoctoral researcher at the Software Languages Lab from the Department of Informatics, Faculty of (BioEngineering) Sciences at the Vrije Universiteit Brussel in Brussels, Belgium. His research interests include (but are not limited to) library usages in large software ecosystems, optimisation techniques, machine and deep learning and mathematical modelling. He did his Ph.D. thesis under the supervision of [Prof. Dr. Coen De Roover](https://soft.vub.ac.be/~cderoove/).
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
