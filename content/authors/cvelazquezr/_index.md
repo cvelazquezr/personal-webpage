@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Camilo Velázquez-Rodríguez
+title: Dr. Camilo Velázquez-Rodríguez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Vrije Universiteit Brussel
-  url: https://vub.be/en
+- name: Flanders Make
+  url: https://www.flandersmake.be/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include software engineering, artificial intelligence on code and mining software repositories.
@@ -27,9 +27,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Research Engineer
+    institution: Flanders Make
+    year: 2025-present
   - course: Postdoctoral Researcher
     institution: Vrije Universiteit Brussel (VUB)
-    year: 2024-present
+    year: 2024-2025
   - course: Ph.D. in Computer Science
     institution: Vrije Universiteit Brussel (VUB)
     year: 2018-2024
