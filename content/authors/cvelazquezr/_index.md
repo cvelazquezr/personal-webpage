@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Camilo Velázquez-Rodríguez
+title: Camilo Velázquez-Rodríguez
 
 # Is this the primary user of the site?
 superuser: true
@@ -54,7 +54,7 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/my-orcid?orcid=0000-0002-8360-1519
-- icon: x
+- icon: twitter
   icon_pack: fab
   link: https://x.com/cvelazquezr
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
