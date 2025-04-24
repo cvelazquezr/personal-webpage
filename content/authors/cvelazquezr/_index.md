@@ -27,12 +27,6 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Research Engineer
-    institution: Flanders Make
-    year: 2025-present
-  - course: Postdoctoral Researcher
-    institution: Vrije Universiteit Brussel (VUB)
-    year: 2024-2025
   - course: Ph.D. in Computer Science
     institution: Vrije Universiteit Brussel (VUB)
     year: 2018-2024
@@ -42,6 +36,15 @@ education:
   - course: B.Sc. in Informatics
     institution: Universidad de Holguín "Oscar Lucero Moya" (UHO)
     year: 2009-2014
+
+experience:
+  courses:
+  - course: Research Engineer
+    institution: Flanders Make
+    year: 2025-present
+  - course: Postdoctoral Researcher
+    institution: Vrije Universiteit Brussel (VUB)
+    year: 2024-2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
