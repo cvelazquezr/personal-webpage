@@ -54,9 +54,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/my-orcid?orcid=0000-0002-8360-1519
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/cvelazquezr
+  link: https://x.com/cvelazquezr
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=gpOkHwkAAAAJ&hl=en
@@ -81,6 +81,6 @@ email: ""
 highlight_name: true
 ---
 
-Camilo Velázquez-Rodríguez is a Postdoctoral researcher at the Software Languages Lab from the Department of Informatics, Faculty of Sciences and Bioengineering Sciences at the Vrije Universiteit Brussel in Brussels, Belgium. His research interests include (but are not limited to) library usages in large software ecosystems, optimisation techniques, machine and deep learning and mathematical modelling. He did his Ph.D. thesis under the supervision of [Prof. Dr. Coen De Roover](https://soft.vub.ac.be/~cderoove/).
+Dr. Camilo Velázquez-Rodríguez currently works as Research Engineer at Flanders Make is Leuven, Belgium. He obtained his Ph.D. from the Vrije Universiteit Brussel (VUB) in 2024 under the supervision of [Prof. Dr. Coen De Roover](https://soft.vub.ac.be/~cderoove/). After his Ph.D. studies, he collaborated as a Postdoctoral researcher at the Software Languages Lab in the Department of Informatics, Faculty of Sciences and Bioengineering Sciences at the VUB. His research interests include (but are not limited to) library usages in public fora, optimisation techniques, machine and deep learning techniques, mathematical modelling and the application of these techniques to solve industrial problems.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
