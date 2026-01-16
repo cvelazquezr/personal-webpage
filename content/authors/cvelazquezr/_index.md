@@ -83,7 +83,10 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+Dr. Camilo Velázquez-Rodríguez is a Research Engineer at Flanders Make in Kortrijk, Belgium, where he works within the Productions Core Lab in Digital Productions. In this role, he leads and contributes to the design and deployment of data-driven solutions for industrial applications, spanning data engineering and analytics, software architecture and implementation, and cloud-based infrastructure and services.
 
-Dr. Camilo Velázquez-Rodríguez currently works as Research Engineer at Flanders Make in Leuven, Belgium. He obtained his Ph.D. from the Vrije Universiteit Brussel (VUB) in 2024 under the supervision of [Prof. Dr. Coen De Roover](https://soft.vub.ac.be/~cderoove/). After his Ph.D. studies, he collaborated as a Postdoctoral researcher at the Software Languages Lab in the Department of Informatics, Faculty of Sciences and Bioengineering Sciences at the VUB. His research interests include (but are not limited to) library usages in public fora, optimisation techniques, machine and deep learning techniques, mathematical modelling and the application of these techniques to solve industrial problems.
+He obtained his Ph.D. from the Vrije Universiteit Brussel (VUB) in 2024 under the supervision of [Prof. Dr. Coen De Roover](https://soft.vub.ac.be/~cderoove/). Following his doctoral studies, he held a postdoctoral position at the Software Languages Lab in the Department of Informatics at VUB, where he contributed to advanced research at the intersection of software engineering and machine learning.
+
+His expertise lies in optimisation, machine learning and deep learning, and mathematical modelling, with a strong focus on translating advanced methods into robust, scalable solutions for complex industrial systems.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
